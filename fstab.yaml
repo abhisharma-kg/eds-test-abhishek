@@ -3,6 +3,3 @@ mountpoints:
     url: "https://author-p33904-e822614.adobeaemcloud.com/bin/franklin.delivery/abhisharma-kg/eds-test-abhishek/main"
     type: "markup"
     suffix: ".html"
-  /da:
-    url: "https://content.da.live/abhisharma-kg/eds-test-abhishek/"
-    type: "markup"
