@@ -4,5 +4,5 @@ mountpoints:
     type: "markup"
     suffix: ".html"
   /da:
-    url: "https://da.live/edit#/abhisharma-kg/eds-test-abhishek"
+    url: "https://content.da.live/abhisharma-kg/eds-test-abhishek/"
     type: "markup"
